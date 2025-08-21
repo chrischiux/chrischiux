@@ -33,3 +33,4 @@ A tool for Crawling, Indexing, and searching phrases on quotes.toscrape.com
 
 - [Anymatrix-Python](https://github.com/chrischiux/Anymatrix-Python)<br>
 Python port of MATLAB matrix collection software Anymatrix
+Key frameworks used: **NumPy**, **PyTest**
