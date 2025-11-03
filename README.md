@@ -1,6 +1,10 @@
 # Hi there 👋
 You can find a list of my past projects here.
 
+## TypeScript
+- [Electric Tariff Calculator](https://github.com/chrischiux/TariffCalculator) ![New badge](https://img.shields.io/badge/NEW-green)<br>
+  Web app for Octopus Energy dual rate tariff users to check if they can potentially save money by switching to a new tariff
+
 ## Assembly
 - [Feistel-Cipher](https://github.com/chrischiux/Feistel-Cipher) <br>
   Feistel encryption implemented in HACK assembly
